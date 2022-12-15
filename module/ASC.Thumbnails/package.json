@@ -10,7 +10,7 @@
   "dependencies": {
     "co": "^4.6.0",
     "cookie-parser": "~1.4.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "filenamify-url": "^2.1.1",
     "moment": "^2.26.0",
     "nconf": "^0.10.0",
