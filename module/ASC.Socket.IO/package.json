@@ -25,7 +25,7 @@
     "redis": "^3.0.2",
     "request": "^2.88.2",
     "socket.io": "^2.3.0",
-    "ua-parser-js": "^0.7.21",
+    "ua-parser-js": "^0.7.33",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^4.4.2"
   }
